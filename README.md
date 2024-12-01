@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kirjahri
-- 👀 I’m interested in software and game development
-- 🌱 I’m currently learning Rust and Godot
-- 💞️ I’m looking to collaborate on games
-- 📫 How to reach me: Twitter and Bluesky
+-  hai
+-  i’m interested in software dev
+-  i’m currently learning web dev
+-  i’m looking to collaborate anything
+-  how to reach me: Twitter and Bluesky
 
 <!---
 kirjahri/kirjahri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
