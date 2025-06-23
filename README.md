@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirjahri&show_icons=true&theme=tokyonight)
+hi im fucking stupid and program sometimes ok bye
