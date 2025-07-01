@@ -1,1 +1,1 @@
-hi im stupid and program sometimes ok bye
+hi im stupid and alongside drawing i program sometimes ok bye
